@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Concours d’affiches du Festival Avignon OFF
 
-# L'Échappée Belle
+Ce site Web a pour but d’archiver les résultats des concours d’affiches de chaque édition du Festival OFF d’Avignon, le site d’AF&C ne gardant pas forcément des archives de chaque année.
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+De plus, les affiches sont souvent uniquement postées sur les réseaux sociaux comme Facebook et Instagram, privant les personnes non inscrites sur ces réseaux de les regarder. 
